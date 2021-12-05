@@ -2,11 +2,6 @@
 
 # Hi there :wave:, I'm Faris!
 
-
-                                                                                                                                
-<p>
- <img width="60%" src="https://github-readme-stats.vercel.app/api?username=farisAlbalawi&show_icons=true&theme=tokyonight&include_all_commits=true" />
- <img width=60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisAlbalawi&layout=compact&theme=tokyonight" />
-</p>
+  ![undefined - Imgur](https://user-images.githubusercontent.com/18473439/144753524-29301295-c878-42e0-9266-6af88ce85e64.gif)
 
 </div>
